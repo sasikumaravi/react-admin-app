@@ -1,0 +1,371 @@
+.forms {
+  background-color: RGB(255 222 222);
+  height: 665px;
+  width: 1428px;
+  margin: 40px;
+  margin-top: 70px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+
+.forms::-webkit-scrollbar {
+  display: none;
+}
+
+.forms-login {
+  background-color: RGB(255 222 222);
+  height: 450px;
+  width: 30%;
+  margin-top: 145px;
+  margin-bottom: 145px;
+  border-radius: 20px;
+}
+
+.body {
+  background-color: black;
+  min-height: 100vh;
+}
+
+.button {
+  background-color: black;
+
+}
+
+.jost {
+  font-family: "Jost", sans-serif !important;
+  font-style: normal;
+}
+
+.ant-col {
+  padding-bottom: 0px !important;
+}
+
+.form-item {
+  margin-bottom: 20px;
+}
+
+.ref {
+  margin-top: 20px;
+  margin-bottom: 30px !important;
+}
+
+.anchor {
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-top: 10px;
+  /* margin-bottom: 10px; */
+}
+
+.button-login {
+
+  background-color: black;
+}
+
+.form-items {
+  margin-bottom: 0px;
+}
+
+.menu-button1 {
+  margin-top: 15px;
+  margin-right: 15px;
+  margin-left: 26px;
+  font-size: 20px;
+
+}
+
+.menu-button {
+  margin-right: 10px;
+  margin-top: 12px;
+  font-size: 20px;
+}
+
+.siderrow {
+  height: 86%;
+  justify-content: space-between
+}
+
+.sider {
+  background-color: RGB(255 222 222);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  min-height: 100vh !important;
+}
+
+.loggout {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.menu {
+  border-radius: 10px;
+  max-width: 90%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.profile {
+  margin: 15px;
+}
+
+.text {
+  margin-left: 5px;
+}
+
+.logout-button {
+  background-color: black;
+  color: white;
+  margin: 10px;
+
+}
+
+.menu-2 {
+  border-radius: 10px;
+  max-width: 100%;
+  border: none;
+
+}
+
+.count {
+  font-size: 45px;
+  font-weight: 500;
+  color: white;
+  font-family: "Jost", sans-serif !important;
+  font-style: normal;
+}
+
+.icon {
+  font-size: 60px;
+}
+
+.total {
+  font-size: 25px;
+  font-weight: lighter;
+  color: white;
+}
+
+.content-body {
+  background-color: black;
+}
+
+.ant-layout-content {
+  margin: 0px !important;
+}
+
+.dashboard-body .ant-card-body {
+  background: rgba(43, 43, 43, 1);
+  border-radius: 5px !important;
+  color: white;
+  padding: 7px;
+}
+
+.ant-card {
+  border: none;
+}
+
+.dashboard-body {
+  color: white !important;
+}
+
+.dashboard-body .ant-row {
+  align-items: center;
+  color: white !important;
+}
+
+.texts {
+  color: white;
+  font-size: 30px;
+  padding-left: 10px;
+  font-weight: 500;
+  color: white;
+  font-family: "Jost", sans-serif !important;
+  font-style: normal;
+}
+
+.layout {
+  background-color: black;
+}
+
+.ant-menu-item-selected {
+  background-color: rgb(42, 42, 42) !important;
+
+}
+
+.ant-layout {
+  min-height: 100vh;
+}
+
+.logout-button:hover {
+  color: black !important;
+}
+
+.ant-menu-dark.ant-menu-root.ant-menu-vertical {
+  background-color: black;
+}
+
+.ant-form-item .ant-form-item-label>label {
+  font-family: "Jost", sans-serif !important;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.divider {
+  background: rgba(43, 43, 43, 1);
+}
+
+.ant-card-cover {
+  width: 100px;
+}
+
+.first-name-text {
+  color: white;
+  font-family: "Jost", sans-serif !important;
+  font-size: 13px;
+
+}
+
+.email-text {
+  font-size: 12px;
+  color: rgba(187, 187, 187, 1);
+  text-decoration: underline;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.edit-button {
+  color: white;
+  background: rgba(33, 83, 12, 1);
+  padding: 10px 18px;
+  border-radius: 5px;
+  border: none;
+  font-family: "Jost", sans-serif;
+  font-weight: bold;
+}
+
+.delete-button {
+  padding: 10px 18px;
+  color: white;
+  background: rgba(91, 12, 12, 1);
+  border-radius: 5px;
+  border: none;
+  font-family: "Jost", sans-serif;
+  font-weight: bold;
+}
+
+.space-col {
+  margin-top: 5px;
+}
+
+.card-image {
+  height: 70px;
+  width: 70px;
+  translate: 15px -8px;
+  border-radius: 8px;
+}
+
+.ant-table-pagination {
+  background-color: rgb(75, 75, 75);
+  margin-top: 0px !important;
+}
+
+.ant-pagination-item {
+  background: none !important;
+  border: none !important;
+  color: white !important;
+}
+
+.ant-pagination-item-active {
+  color: white !important;
+}
+
+
+.ant-modal-footer {
+  display: none;
+}
+
+.ant-modal-content {
+  height: 470px;
+  width: 500px;
+  background: black !important;
+  box-shadow: rgba(235, 235, 237, 0.2) 0px 7px 12px 5px !important;
+}
+
+.ant-modal-close {
+  color: white !important;
+  margin-top: 7px;
+}
+
+.card-text {
+  font-family: "Jost", sans-serif;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.tag-content {
+  margin-left: 15px;
+}
+
+.modal .ant-card-body {
+  padding-top: 100px;
+}
+
+.submit-butn {
+  background-color: black !important;
+  border: 1px solid white !important;
+  font-family: "Jost", sans-serif;
+  color: white !important;
+  font-weight: bold;
+}
+
+.submit-butn:hover {
+  color: black !important;
+  background: white !important;
+}
+
+.radio {
+  font-family: "Jost", sans-serif !important;
+  font-weight: bold;
+}
+
+.ant-radio-group {
+  background-color: black !important;
+}
+
+.ant-radio-button {
+  background-color: rgba(43, 43, 43, 1) !important;
+  border-radius: 5px;
+}
+
+.ant-radio-button-wrapper {
+  border: 1px solid rgba(43, 43, 43, 1) !important;
+  background-color: rgba(43, 43, 43, 1) !important;
+  color: white
+}
+
+.ant-radio-button-wrapper-checked,
+.ant-radio-button-checked {
+  background-color: white !important;
+  color: black !important;
+}
+
+.ant-radio-button-wrapper-block::before {
+  background-color: rgb(145, 141, 141) !important;
+}
+
+.files-choose {
+  background-color: rgba(43, 43, 43, 1) !important;
+  border-radius: 5px;
+  color: white;
+}
+
+.ant-pagination .ant-pagination-item-active a {
+  color: white;
+  font-weight: bold;
+}

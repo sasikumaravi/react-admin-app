@@ -1,0 +1,2 @@
+export const LOGOUT_DATA="LOGOUT_DATA"
+export const FETCH_DATA="FETCH_DATA"

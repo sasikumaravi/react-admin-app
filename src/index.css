@@ -1,0 +1,116 @@
+.adduser-form .ant-form-item .ant-form-item-label>label {
+    font-family: "Jost", sans-serif !important;
+    font-style: normal;
+    color: white !important;
+    font-size: 20px;
+}
+
+.adduser-form .ant-radio-wrapper span.ant-radio+* {
+    font-family: "Jost", sans-serif !important;
+    font-style: normal;
+    color: white !important;
+}
+
+.upload {
+    margin-left: 10px;
+}
+
+.adduser-form .ant-input-outlined {
+    background: rgba(43, 43, 43, 1);
+    border: grey;
+    color: white;
+}
+
+.adduser-form .ant-select-single.ant-select-lg:not(.ant-select-customize-input) .ant-select-selector {
+    background: rgba(43, 43, 43, 1);
+    border: grey;
+    color: white;
+}
+
+.adduser-form .ant-input-outlined.ant-input-status-error {
+    background: rgba(43, 43, 43, 1) !important;
+    border: grey;
+}
+
+.adduser-form .ant-select-selection-placeholder {
+    color: white !important;
+}
+
+.adduser-form .ant-btn-variant-outlined {
+    background: rgba(43, 43, 43, 1);
+    border: grey;
+    color: white !important;
+}
+
+.adduser-form .ant-btn-variant-outlined:hover {
+    color: black !important;
+}
+
+.ant-upload-list-item-container {
+    color: white;
+}
+
+.ant-upload-list-item-actions {
+    background-color: aqua;
+    color: white !important;
+}
+
+.adduser-form {
+    width: 65vw;
+    margin: auto;
+}
+
+.first-name-text-value {
+    color: lightgray !important;
+}
+
+.ant-ribbon {
+    margin-right: 25px;
+}
+
+.ant-segmented {
+    height: 32px;
+}
+
+.ant-segmented-item-selected {
+    background-color: black !important;
+    color: white !important;
+}
+
+.first-name-text {
+    color: lightgray !important;
+}
+
+.ant-table-content {
+    background: rgb(75, 75, 75);
+    color: white;
+    font-family: "Jost", sans-serif;
+    font-weight: bold;
+}
+
+.ant-table-thead .ant-table-cell {
+    background: rgb(75, 75, 75) !important;
+    color: white !important;
+}
+
+tr:hover {
+    color: black;
+}
+
+.male-tag {
+    background-color: rgb(17, 77, 196);
+    color: white;
+    border: none;
+    text-transform: uppercase;
+}
+
+.female-tag {
+    background-color: rgb(238, 65, 122);
+    color: white;
+    border: none;
+    text-transform: uppercase;
+}
+
+.button-row {
+    display: flex !important;
+}
